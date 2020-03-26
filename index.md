@@ -17,7 +17,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 * 2020-07-13: Paper submission deadline
 * 2020-08-06: Author notification
-* 2018-09-10: Final version upload
+* 2018-09-03: Final version upload
 * 2018-09-22 -- 26: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
