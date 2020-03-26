@@ -1,0 +1,23 @@
+---
+title: "3rd FAccTRec Workshop: Responsible Recommendation"
+layout: page
+permlink: /
+---
+
+The 3rd FAccTRec Workshop on Responsible Recommendation at [Recys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
+The importance of these problems are now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation and broader awareness of social issues in informaiton distribution.
+In this workshop, we welcome research and position papers about ethical, social, and legal issues raised by the development and the use of recommendation.
+The workshop will include presentations of these papers and discussion on a research agenda for socially responsible recommendation.
+
+## What's New
+
+* 2020-03-26: opening this site
+
+## Important Dates
+
+* 2020-07-13: Paper submission deadline
+* 2020-08-06: Author notification
+* 2018-09-10: Final version upload
+* 2018-09-22 -- 26: Workshop (full day)
+
+TIMEZONE: Anywhere On Earth
