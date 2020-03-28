@@ -21,3 +21,7 @@ The workshop will include presentations of these papers and discussion on a rese
 * 2018-09-22 -- 26: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
+
+## FAccT Network
+
+The FAccTRec 2020 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
