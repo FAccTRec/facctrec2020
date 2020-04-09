@@ -11,6 +11,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-04-10: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2020-03-26: opening this site
 
 ## Important Dates
