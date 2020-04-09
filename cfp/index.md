@@ -7,18 +7,18 @@ permlink: /cfp/
 The 3rd FAccTRec Workshop on Responsible Recommendation
 =====================================================
 
-The 3rd FAccTRec Workshop on Responsible Recommendation at RecSys 2020 ( https://recsys.acm.org/recsys20/ ) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. The importance of the problem is now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation. And, we will conduct a discussion for research to contribute socially responsible recommendations.
+The 3rd FAccTRec Workshop on Responsible Recommendation at [RecSys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. The importance of the problem is now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation. And, we will conduct a discussion for research to contribute socially responsible recommendations.
 
 Topics of Interest
 ------------------
 
-FAccTRec stands for Fairness, Accountability and Transparency in Recommender Systems and aims to draw attention to these issues at ACM RecSys, as has been done in the machine learning community through events such as FAccT conference ( https://facctconference.org/ ). There are many potential aspects of responsibility in recommendation, including (but not limited to):
+FAccTRec stands for Fairness, Accountability and Transparency in Recommender Systems and aims to draw attention to these issues at ACM RecSys, as has been done in the machine learning community through events such as [FAccT conference](https://facctconference.org/). There are many potential aspects of responsibility in recommendation, including (but not limited to):
 
 * Responsibility: what does it mean for a recommender system to be socially responsible? How can we assess the social and human impact of recommender systems?
 * Fairness: what might ‘fairness’ mean in the context of recommendation? How could a recommender be unfair, and how could we measure such unfairness?
 * Accountability: to whom, and under what standard, should a recommender system be accountable? How can or should it and its operators be held accountable? What harms should such accountability be designed to prevent?
 * Transparency: what is the value of transparency in recommendation, and how might it be achieved? How might it trade off with other important concerns?
-* Compliance: how should algorithms and especially recommendation algorithms be designed to adhere the laws or regulations, such as the EU GDPR ( http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679 ) or the IEEE EAD ( https://ethicsinaction.ieee.org/ )? How should data collection be rethought to meet those new privacy standards ? How to meet the requirements in terms of transparency and explainability of algorithmic decisions.
+* Compliance: how should algorithms and especially recommendation algorithms be designed to adhere the laws or regulations, such as the [EU GDPR](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) or the [IEEE EAD](https://ethicsinaction.ieee.org/)? How should data collection be rethought to meet those new privacy standards ? How to meet the requirements in terms of transparency and explainability of algorithmic decisions.
 * Safety: how can a recommender system distort users' opinions? what is required to be resilient to such a distortion? What is a proper treatment of private or sensitive information when making recommendations?
 
 Submission Guidelines 
@@ -38,7 +38,7 @@ Research papers present empirical or analytical results related to the social im
 
 ### Paper format
 
-We encourage to format in the ACM manuscript / sigconf format  or ( https://www.acm.org/publications/proceedings-template ) with the subsequent options.
+We encourage to format in [the ACM manuscript / sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
 
 * \setcopyright{none}
 * a `CCS` class and keywords parts can be omitted.
