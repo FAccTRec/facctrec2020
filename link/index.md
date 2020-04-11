@@ -4,16 +4,14 @@ layout: page
 permlink: /link/
 ---
 
-# Related Links
-
 ## Past FAccTRec Workshops
 
-* [FATREC 2017](/fatrec2017/) @ RecSys 2017, Como, Italy ([article](https://doi.org/10.1145/3109859.3109960))
-* [FATREC 2018](/fatrec2018/) @ RecSys 2018, Vancouver, Canada ([article](https://doi.org/10.1145/3240323.3240335))
+* [FATREC 2017](/fatrec2017/) @ RecSys 2017, Como, Italy ([summary article](https://doi.org/10.1145/3109859.3109960))
+* [FATREC 2018](/fatrec2018/) @ RecSys 2018, Vancouver, Canada ([summary article](https://doi.org/10.1145/3240323.3240335))
 
 ## Related Workshops and Conferences
 
-* [Facts IR](https://scienceinthenoise.com/) @ SIGIR 2019, Paris, France ([article](http://sigir.org/wp-content/uploads/2019/december/p020.pdf))
+* [Facts IR](https://scienceinthenoise.com/) @ SIGIR 2019, Paris, France ([report article](http://sigir.org/wp-content/uploads/2019/december/p020.pdf))
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
 	* [FAccT Network](https://facctconference.org/network/): FAccT Related Events
 
