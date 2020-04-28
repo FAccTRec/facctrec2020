@@ -4,7 +4,7 @@ layout: page
 permlink: /
 ---
 
-<div style="color: red; margin-bottom: 5ex; text-align: center;">The FAccTRec workshop will be held in an online form. The information in this site will be updated soon.</div>
+<div style="color: red; margin-bottom: 5ex; text-align: center;">Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form.</div>
 
 The 3rd FAccTRec Workshop on Responsible Recommendation at [Recys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
 The importance of these problems are now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation and broader awareness of social issues in informaiton distribution.
@@ -13,15 +13,16 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-04-28: announcement of an online form
 * 2020-04-10: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2020-03-26: opening this site
 
 ## Important Dates
 
-* 2020-07-13: Paper submission deadline
-* 2020-08-06: Author notification
-* 2018-09-03: Final version upload
-* 2018-09-26: Workshop (full day)
+* <del style="color: gray;">2020-07-13</del> 2020-07-29: Paper submission deadline
+* <del style="color: gray;">2020-08-06</del> 2020-08-21: Author notification
+* <del style="color: gray;">2020-09-03</del> 2020-09-04: Final version upload
+* 2020-09-26: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
 
