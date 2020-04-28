@@ -7,6 +7,8 @@ permlink: /cfp/
 The 3rd FAccTRec Workshop on Responsible Recommendation
 =====================================================
 
+<div style="color: red; margin-bottom: 5ex; text-align: center;">Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form, and the submission deadline is updated to July 29.</div>
+
 The 3rd FAccTRec Workshop on Responsible Recommendation at [RecSys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. The importance of the problem is now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation. And, we will conduct a discussion for research to contribute socially responsible recommendations.
 
 Topics of Interest
@@ -38,20 +40,20 @@ Research papers present empirical or analytical results related to the social im
 
 ### Paper format
 
-We encourage to format in [the ACM manuscript / sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
+We encourage you to format in the [ACM manuscript / sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
 
 * \setcopyright{none}
 * a `CCS` class and keywords parts can be omitted.
 
 However, we will not limit to this format, and will accept one of the ACM sigconf,  the IEEE proceedings format, the NeurIPS format, and the ICML proceedings format.
-The number of words should be limited 2000 words for position papers, and 3000 - 5000 words for research papers.  Each display-style-equation is counted as 30 words and each figure or table is counted as 200 words.
+The number of words should be limited to 2000 words for position papers, and 3000 - 5000 words for research papers.  Each display-style-equation is counted as 30 words and each figure or table is counted as 200 words.
 
 Important Dates
 ---------------
 
-* 2020-07-13: Paper submission deadline
-* 2020-08-13: Author notification
-* 2020-09-03: Camera-ready version deadline
+* <del style="color: gray;">2020-07-13</del> 2020-07-29: Paper submission deadline
+* <del style="color: gray;">2020-08-06</del> 2020-08-21: Author notification
+* <del style="color: gray;">2020-09-03</del> 2020-09-04: Final version upload
 * 2020-09-26: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
