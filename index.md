@@ -13,6 +13,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-07-13: open [submission site](https://easychair.org/conferences/?conf=facctrec2020)
 * 2020-04-28: announcement of an online form
 * 2020-04-10: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2020-03-26: opening this site

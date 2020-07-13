@@ -48,6 +48,10 @@ We encourage you to format in the [ACM manuscript / sigconf format](https://www.
 However, we will not limit to this format, and will accept one of the ACM sigconf,  the IEEE proceedings format, the NeurIPS format, and the ICML proceedings format.
 The number of words should be limited to 2000 words for position papers, and 3000 - 5000 words for research papers.  Each display-style-equation is counted as 30 words and each figure or table is counted as 200 words.
 
+### Submission
+
+Papers should be submitted from the [EasyChair](https://easychair.org/conferences/?conf=facctrec2020).  Please do not forget to choose your type of submission: Position or Research.
+
 Important Dates
 ---------------
 
