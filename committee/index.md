@@ -38,4 +38,22 @@ permlink: /committee/
 ## Program Committee
 {:style="clear: both"}
 
-* TBA
+* Asia J. Biega
+* Alex Beutel
+* Ludovico Boratto
+* Dan Cosley
+* Henriette Cramer
+* Golnoosh Farnadi
+* Benjamin Fields
+* Daniel Kluver
+* Bart Knijnenburg
+* Pigi Kouki
+* Preethi Lahoti
+* Mirko Marras
+* Dimitris Paraschakis
+* Piotr Sapiezynski
+* Ashudeep Singh
+* Ana-Andreea Stoica
+* Julia Stoyanovich
+* Christo Wilson
+
