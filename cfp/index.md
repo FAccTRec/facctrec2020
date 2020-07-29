@@ -34,7 +34,7 @@ Manuscripts must be submitted through an online submission system and will be re
 
 ### Position Papers
 
-Position papers address one or more of the above themes, or practical issues in building responsible recommendations. These could be both research systems or production systems in industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format..
+Position papers address one or more of the above themes, or practical issues in building responsible recommendations. These could be both research systems or production systems in industry. The number of pages should be limited to three (3) pages in the ACM manuscript format and two (2) pages in the ACM sigconf format.  You can omit the abstract in the article.
 
 ### Research Papers
 
