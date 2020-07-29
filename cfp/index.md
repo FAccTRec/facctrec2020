@@ -4,10 +4,12 @@ layout: page
 permlink: /cfp/
 ---
 
+<div style="color: red; margin-bottom: 5ex;">
+DEADLINE EXTENTION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 2</span>.
+</div>
+
 The 3rd FAccTRec Workshop on Responsible Recommendation
 =====================================================
-
-<div style="color: red; margin-bottom: 5ex; text-align: center;">Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form, and the submission deadline is updated to July 29.</div>
 
 The 3rd FAccTRec Workshop on Responsible Recommendation at [RecSys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems. The importance of the problem is now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation. And, we will conduct a discussion for research to contribute socially responsible recommendations.
 
@@ -55,7 +57,8 @@ Papers should be submitted from the [EasyChair](https://easychair.org/conference
 Important Dates
 ---------------
 
-* <del style="color: gray;">2020-07-13</del> 2020-07-29: Paper submission deadline
+* <del style="color: gray;">2020-07-29</del> 2020-07-31: Abstract registration deadline
+* <del style="color: gray;">2020-07-29</del> 2020-08-04: Paper submission deadline
 * <del style="color: gray;">2020-08-06</del> 2020-08-21: Author notification
 * <del style="color: gray;">2020-09-03</del> 2020-09-04: Final version upload
 * 2020-09-26: Workshop (full day)
