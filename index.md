@@ -5,7 +5,7 @@ permlink: /
 ---
 
 <div style="color: red; margin-bottom: 5ex;">
-DEADLINE EXTENTION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 4</span>.
+DEADLINE EXTENSION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 4</span>.
 </div>
 
 Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form.
