@@ -5,7 +5,7 @@ permlink: /cfp/
 ---
 
 <div style="color: red; margin-bottom: 5ex;">
-DEADLINE EXTENTION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 4</span>.
+DEADLINE EXTENSION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 4</span>.
 </div>
 
 The 3rd FAccTRec Workshop on Responsible Recommendation
