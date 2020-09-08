@@ -4,19 +4,16 @@ layout: page
 permlink: /
 ---
 
-<div style="color: red; margin-bottom: 5ex;">
-DEADLINE EXTENSION: the deadline of the FAccTRec workshop is extended.  The authors have to register the abstract before <span style="font-weight: bold;">July 31</span>, and submit the paper <span style="font-weight: bold;">August 4</span>.
-</div>
-
 Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form.
 
-The 3rd FAccTRec Workshop on Responsible Recommendation at [Recys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
+The 3rd FAccTRec Workshop on Responsible Recommendation at [Recys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
 The importance of these problems are now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation and broader awareness of social issues in informaiton distribution.
 In this workshop, we welcome research and position papers about ethical, social, and legal issues raised by the development and the use of recommendation.
-The workshop will include presentations of these papers and discussion on a research agenda for socially responsible recommendation.
+The workshop will include presentations of these papers and discussion on a research agenda for socially responsible recommendation.
 
 ## What's New
 
+* 2020-09-09: [keynote talk by Eni Mustafaraj]({{ "/talk/" | relative_url }})
 * 2020-07-29: deadline extension
 * 2020-07-13: open [submission site](https://easychair.org/conferences/?conf=facctrec2020)
 * 2020-04-28: announcement of an online form
