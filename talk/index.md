@@ -16,7 +16,7 @@ In this talk, I will discuss methods for auditing search engines, what I have le
 ### about speaker
 {:style="clear: both"}
 
-<img src="mustafaraj.jpg" style="margin-right: 2rem; margin-bottom: 2rem; float: left;" />
+<img src="mustafaraj.jpg" style="margin-right: 2rem; margin-bottom: 2rem; float: left; max-width: 200px;" />
 
 Dr. Eni Mustafaraj is an Assistant Professor of Computer Science at Wellesley College.
 Her research focuses on methods for exposing misinformation and manipulation in sociotechnical platforms.
