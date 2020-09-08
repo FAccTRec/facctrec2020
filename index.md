@@ -13,6 +13,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-09-09: [keynote talk by Eni Mustafaraj]({{ "/talk/" | relative_url }})
 * 2020-07-29: deadline extension
 * 2020-07-13: open [submission site](https://easychair.org/conferences/?conf=facctrec2020)
 * 2020-04-28: announcement of an online form
