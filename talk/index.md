@@ -13,7 +13,7 @@ How do algorithmic news curation systems, like Google's Top stories, choose what
 Google has stated that its goal is to connect people with high quality news from a variety of perspectives, but it is also vague about how it resolves the tension between high quality news and politically (hyper)partisan perspectives.
 In this talk, I will discuss methods for auditing search engines, what I have learned from auditing Google's Top stories results about political events in the past two years, and directions for future interdisciplinary research.
 
-### about speaker
+### about the speaker
 {:style="clear: both"}
 
 <img src="mustafaraj.jpg" style="margin-right: 2rem; margin-bottom: 2rem; float: left; max-width: 200px;" />
