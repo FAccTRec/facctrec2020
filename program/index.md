@@ -48,7 +48,7 @@ permlink: /program/
 	* [article](http://arxiv.org/abs/2009.02590)
 * Why should I not follow you? Reasons For and Reasons Against in Responsible Recommender Systems
 	* Gustavo Polleti, Douglas Luan de Souza, and Fabio Cozman
-	* [article](facctrec2020-polleti.pdf)
+	* [article](https://arxiv.org/abs/2009.01953)
 * On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion
 	* Mukund Telukunta and Venkata Sriram Siddhardh Nadendla
 	* [article](facctrec2020-telukunta.pdf)
