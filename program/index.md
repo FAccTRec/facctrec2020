@@ -67,6 +67,7 @@ permlink: /program/
 	* [article](https://arxiv.org/abs/2008.13404)
 * Building Healthy Recommendation Sequences for Everyone: A Safe Reinforcement Learning Approach
 	* Ashudeep Singh, Yoni Halpern, Nithum Thain, Konstantina Christakopoulou, Ed H. Chi, Jilin Chen, and Alex Beutel
+	* [article](http://www.ashudeepsingh.com/publications/facctrec2020_singh_et_al.pdf)
 * Fairness-Aware Online Personalization
 	* G Roshan Lal, Sahin Geyik and Krishnaram Kenthapadi
 	* [article](https://arxiv.org/abs/2007.15270), [code](https://github.com/groshanlal/Fairness-Aware-Online-Personalization)
