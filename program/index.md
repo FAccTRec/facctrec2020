@@ -51,7 +51,7 @@ permlink: /program/
 	* [article](https://arxiv.org/abs/2009.01953)
 * On the Identification of Fair Auditors to Evaluate Recommender Systems based on a Novel Non-Comparative Fairness Notion
 	* Mukund Telukunta and Venkata Sriram Siddhardh Nadendla
-	* [article](facctrec2020-telukunta.pdf)
+	* [article](http://arxiv.org/abs/2009.04383)
 * Comparing Fair Ranking Metrics
 	* Amifa Raj, Connor Wood, Ananda Montoly, and Michael Ekstrand
 	* [article](http://arxiv.org/abs/2009.01311)
