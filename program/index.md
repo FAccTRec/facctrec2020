@@ -12,7 +12,7 @@ permlink: /program/
 
 * HyperFair: A Soft Approach to Integrating Fairness Criteria
 	* Charles Dickens, Rishika Singh, and Lise Getoor
-	* [artilce](facctrec2020-dickens.pdf)
+	* [article](facctrec2020-dickens.pdf)
 * #TulsaFlop: A Case Study of Algorithmically-Influenced Collective Action on TikTok
 	* Jack Bandy and Nicholas Diakopoulos
 	* [article](https://jackbandy.com/files/facctrec2020_tiktok_collective_action_sept4.pdf)
