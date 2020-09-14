@@ -4,7 +4,7 @@ layout: page
 permlink: /program/
 ---
 
-## Session 1 (13:00 -- 14:30, GMT)
+## Session 1 (14:00 -- 15:30, GMT)
 
 ### Opening (10 min)
 
@@ -29,9 +29,9 @@ permlink: /program/
 	* Lav R. Varshney
 	* [article](http://arxiv.org/abs/2009.02603)
 
-## Discussion & Break (14:30 -- 15:30, GMT)
+## Discussion & Break (15:30 -- 16:30, GMT)
 
-## Session 2 (15:30 -- 17:00, GMT)
+## Session 2 (16:30 -- 18:00, GMT)
 
 ### Keynote (45 min)
 
@@ -56,9 +56,9 @@ permlink: /program/
 	* Amifa Raj, Connor Wood, Ananda Montoly, and Michael Ekstrand
 	* [article](http://arxiv.org/abs/2009.01311)
 
-## Discussion & Break (17:00 -- 18:00, GMT)
+## Discussion & Break (18:00 -- 19:00, GMT)
 
-## Session 3 (18:00 -- 19:30, GMT)
+## Session 3 (19:00 -- 20:30, GMT)
 
 ### Long Papers (15 + 5 min per presentation)
 
