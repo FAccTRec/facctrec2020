@@ -10,9 +10,9 @@ permlink: /program/
 
 ### Long Papers (15 + 5 min per presentation)
 
-* HyperFair: A Soft Approach to Integrating Fairness Criteria
-	* Charles Dickens, Rishika Singh, and Lise Getoor
-	* [article](facctrec2020-dickens.pdf)
+* Beyond Our Behavior: The GDPR and Humanistic Personalized Recommendation
+	* Travis Greene and Galit Shmueli
+	* [article](https://arxiv.org/abs/2008.13404)
 * #TulsaFlop: A Case Study of Algorithmically-Influenced Collective Action on TikTok
 	* Jack Bandy and Nicholas Diakopoulos
 	* [article](https://jackbandy.com/files/facctrec2020_tiktok_collective_action_sept4.pdf)
@@ -62,9 +62,9 @@ permlink: /program/
 
 ### Long Papers (15 + 5 min per presentation)
 
-* Beyond Our Behavior: The GDPR and Humanistic Personalized Recommendation
-	* Travis Greene and Galit Shmueli
-	* [article](https://arxiv.org/abs/2008.13404)
+* HyperFair: A Soft Approach to Integrating Fairness Criteria
+	* Charles Dickens, Rishika Singh, and Lise Getoor
+	* [article](facctrec2020-dickens.pdf)
 * Building Healthy Recommendation Sequences for Everyone: A Safe Reinforcement Learning Approach
 	* Ashudeep Singh, Yoni Halpern, Nithum Thain, Konstantina Christakopoulou, Ed H. Chi, Jilin Chen, and Alex Beutel
 	* [article](http://www.ashudeepsingh.com/publications/facctrec2020_singh_et_al.pdf)
