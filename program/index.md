@@ -18,7 +18,7 @@ permlink: /program/
 	* [article](https://jackbandy.com/files/facctrec2020_tiktok_collective_action_sept4.pdf)
 * Investigating the impact of personalization on misinformation present in algorithmically curated content in YouTube
 	* Prerna Juneja and Tanushree Mitra
-	* [article](https://doi.org/10.1145/3392854), [code](https://social-comp.github.io/YouTubeAudit-data/)
+	* [article](facctrec2020-juneja.pdf), [code](https://social-comp.github.io/YouTubeAudit-data/)
 
 ### Short Papers (9 min per presentation)
 
