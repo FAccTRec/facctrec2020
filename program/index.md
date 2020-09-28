@@ -8,6 +8,8 @@ permlink: /program/
 
 ### Opening (10 min)
 
+* [slide](opening.pdf)
+
 ### Long Papers (15 + 5 min per presentation)
 
 * Beyond Our Behavior: The GDPR and Humanistic Personalized Recommendation
