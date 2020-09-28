@@ -4,6 +4,10 @@ layout: page
 permlink: /
 ---
 
+<div style="color: red; text-align: center; margin-bottom: 5ex;">
+The workshop has successfully completed. Thanks for all presenters and attendees.
+</div>
+
 Due to the pandemic of the COVID-19, the main conference RecSys2020 will be held in an online form.  Following the change, the FAccTRec workshop will be an online form.
 
 The 3rd FAccTRec Workshop on Responsible Recommendation at [Recys 2020](https://recsys.acm.org/recsys20/) is a venue for discussing problems of social responsibility in building, maintaining, evaluating, and studying recommender systems, including but not limited to issues of fairness, accountability, and transparency (FAccT).
@@ -13,6 +17,7 @@ The workshop will include presentations of these papers and discussion on a rese
 
 ## What's New
 
+* 2020-09-26: The workshop successfully completed.
 * 2020-09-22: open [program]({{ "/program/" | relative_url }})
 * 2020-09-09: [keynote talk by Eni Mustafaraj]({{ "/talk/" | relative_url }})
 * 2020-07-29: deadline extension
